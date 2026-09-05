@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.94SVN scan initiated Sat May  9 20:04:42 2026 as: nmap -sCV -T4 -p- -v -oX scans/target.scan.truc_ha/nmap.xml http://target.scan.truc/ha -->
+<nmaprun scanner="nmap" args="nmap -sCV -T4 -p- -v -oX scans/target.scan.truc_ha/nmap.xml http://target.scan.truc/ha" start="1778349882" startstr="Sat May  9 20:04:42 2026" version="7.94SVN" xmloutputversion="1.05">
+<scaninfo type="connect" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="1"/>
+<debugging level="0"/>
+<taskbegin task="NSE" time="1778349882"/>
+<taskend task="NSE" time="1778349882"/>
+<taskbegin task="NSE" time="1778349882"/>
+<taskend task="NSE" time="1778349882"/>
+<taskbegin task="NSE" time="1778349882"/>
+<taskend task="NSE" time="1778349882"/>
+<target specification="http://target.scan.truc/ha" status="skipped" reason="invalid"/>
+<taskbegin task="NSE" time="1778349882"/>
+<taskend task="NSE" time="1778349882"/>
+<taskbegin task="NSE" time="1778349882"/>
+<taskend task="NSE" time="1778349882"/>
+<taskbegin task="NSE" time="1778349882"/>
+<taskend task="NSE" time="1778349882"/>
+<runstats><finished time="1778349882" timestr="Sat May  9 20:04:42 2026" summary="Nmap done at Sat May  9 20:04:42 2026; 0 IP addresses (0 hosts up) scanned in 0.23 seconds" elapsed="0.23" exit="success"/><hosts up="0" down="0" total="0"/>
+</runstats>
+</nmaprun>
